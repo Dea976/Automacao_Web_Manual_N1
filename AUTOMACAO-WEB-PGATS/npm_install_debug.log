@@ -1,0 +1,17 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Users\andre\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+npm info using npm@10.8.3
+npm info using node@v20.15.0
+npm verbose title npm install
+npm verbose argv "install" "--legacy-peer-deps" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\andre\AppData\Local\npm-cache\_logs\2024-08-29T01_56_31_487Z-
+npm verbose logfile C:\Users\andre\AppData\Local\npm-cache\_logs\2024-08-29T01_56_31_487Z-debug-0.log
+
+up to date, audited 1 package in 981ms
+
+found 0 vulnerabilities
+npm verbose cwd C:\Users\andre\OneDrive\Documentos\PosGraduacaoTesteAutomacao\7-AutomacaoTesteAplicWeb\Cypress\AUTOMACAO-WEB-PGATS\tmpBstackPackages
+npm verbose os Windows_NT 10.0.22631
+npm verbose node v20.15.0
+npm verbose npm  v10.8.3
+npm verbose exit 0
+npm info ok
